@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 22000 11000" width="2.2in" x="0in" version="1.2" baseProfile="tiny" y="0in" height="1.1in">
+    <desc >
+        <referenceFile >generic_ic_dip_38_1000mil_bread.svg</referenceFile>
+    </desc>
+    <g  id="silkscreen" gorn="0.1">
+        <!-- ESP32-DevKitC -->
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  ry="500" rx="500" x="50" width="21750" y="50" height="10950"/>
+        <text style="font-size:800px;text-anchor:start;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="12000" y="3550">ESP32-DevKitC</text>
+        <!-- ESP-WROOM-32 -->
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="50" width="9000" y="2050" height="6950"/>
+        <path style="fill:none;stroke:#1E2C5C;stroke-width:250"  d="M3050 2500 L250 2500 L250 3500 L3050 3500 M250 3500 L250 4500 L1300 4500 L1300 5500 L250 5500 L250 6500 L1300 6500 L1300 7500 L250 7500 L250 8500 L2300 8500"/>
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="3050" width="6000" y="2050" height="6950"/>
+        <text style="font-size:350px;text-anchor:start;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="4000" y="5000">ESP-WROOM-32</text>
+        <!-- Bushbutton Boot -->
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20000" width="1500" y="2050" height="1000"/>
+        <circle cx="20750" style="fill:none;stroke:#1E2C5C;stroke-width:100;"  cy="2550" r="250"/>
+        <text style="font-size:350px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  id="label_BOOT" gorn="0.1.8" x="20750" y="3500">BOOT</text>
+        <!-- USB connector -->
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20000" width="2000" y="4050" height="2950"/>
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20000" width="300" y="4650" height="600"/>
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20000" width="300" y="5850" height="600"/>
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20900" width="600" y="4350" height="300"/>
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20900" width="600" y="6450" height="300"/>
+        <!-- Bushbutton RST -->
+        <rect style="fill:none;stroke:#1E2C5C;stroke-width:100;"  x="20000" width="1500" y="8050" height="1000"/>
+        <circle cx="20750" style="fill:none;stroke:#1E2C5C;stroke-width:100;"  cy="8550" r="250"/>
+        <text style="font-size:350px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  id="label_RST" gorn="0.1.16" x="20750" y="7850">RST</text>
+        <!-- Pin Name pin 38-20 -->
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="2000" y="1400">GND</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="3000" y="1200">IO23</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="4000" y="1400">IO22</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="5000" y="1200">TXD0</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="6000" y="1400">RXD0</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="7000" y="1200">IO21</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="8000" y="1400">GND</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="9000" y="1200">IO19</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="10000" y="1400">IO18</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="11000" y="1200">IO5</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="12000" y="1400">IO17</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="13000" y="1200">IO16</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="14000" y="1400">IO4</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="15000" y="1200">IO0</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="16000" y="1400">IO2</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="17000" y="1200">IO15</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="18000" y="1400">SD1</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="19000" y="1200">SD0</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="20000" y="1400">CLK</text>
+        <!-- Pin Name pin 1-19 -->
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="2000" y="9750">3V3</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="3000" y="9950">EN</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="4000" y="9750">SVP</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="5000" y="9950">SVN</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="6000" y="9750">IO34</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="7000" y="9950">IO35</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="8000" y="9750">IO32</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="9000" y="9950">IO33</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="10000" y="9750">IO25</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="11000" y="9950">IO26</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="12000" y="9750">IO27</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="13000" y="9950">IO14</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="14000" y="9750">IO12</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="15000" y="9950">GND</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="16000" y="9750">IO13</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="17000" y="9950">SD2</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="18000" y="9750">SD3</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="19000" y="9950">CMD</text>
+        <text style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA"  x="20000" y="9750">5V</text>
+    </g>
+    <g  id="copper1" gorn="0.2">
+        <g  id="copper0" gorn="0.2.0">
+            <!-- Holes for 2mm screws -->
+            <circle cx="1000"  cy="750" stroke="rgb(255, 191, 0)" r="450" stroke-width="10" fill="none"/>
+            <circle cx="1000"  cy="10250" stroke="rgb(255, 191, 0)" r="450" stroke-width="10" fill="none"/>
+            <circle cx="21000"  cy="750" stroke="rgb(255, 191, 0)" r="450" stroke-width="10" fill="none"/>
+            <circle cx="21000"  cy="10250" stroke="rgb(255, 191, 0)" r="450" stroke-width="10" fill="none"/>
+            <!-- Low pin number -->
+            <circle cx="2000"  id="connector0pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.4" r="275" stroke-width="200" fill="none"/>
+            <circle cx="3000"  id="connector1pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.5" r="275" stroke-width="200" fill="none"/>
+            <circle cx="4000"  id="connector2pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.6" r="275" stroke-width="200" fill="none"/>
+            <circle cx="5000"  id="connector3pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.7" r="275" stroke-width="200" fill="none"/>
+            <circle cx="6000"  id="connector4pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.8" r="275" stroke-width="200" fill="none"/>
+            <circle cx="7000"  id="connector5pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.9" r="275" stroke-width="200" fill="none"/>
+            <circle cx="8000"  id="connector6pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.10" r="275" stroke-width="200" fill="none"/>
+            <circle cx="9000"  id="connector7pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.11" r="275" stroke-width="200" fill="none"/>
+            <circle cx="10000"  id="connector8pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.12" r="275" stroke-width="200" fill="none"/>
+            <circle cx="11000"  id="connector9pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.13" r="275" stroke-width="200" fill="none"/>
+            <circle cx="12000"  id="connector10pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.14" r="275" stroke-width="200" fill="none"/>
+            <circle cx="13000"  id="connector11pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.15" r="275" stroke-width="200" fill="none"/>
+            <circle cx="14000"  id="connector12pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.16" r="275" stroke-width="200" fill="none"/>
+            <circle cx="15000"  id="connector13pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.17" r="275" stroke-width="200" fill="none"/>
+            <circle cx="16000"  id="connector14pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.18" r="275" stroke-width="200" fill="none"/>
+            <circle cx="17000"  id="connector15pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.19" r="275" stroke-width="200" fill="none"/>
+            <circle cx="18000"  id="connector16pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.20" r="275" stroke-width="200" fill="none"/>
+            <circle cx="19000"  id="connector17pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.21" r="275" stroke-width="200" fill="none"/>
+            <circle cx="20000"  id="connector18pin" cy="10500" stroke="rgb(255, 191, 0)" gorn="0.2.0.22" r="275" stroke-width="200" fill="none"/>
+            <!-- High pin number -->
+            <circle cx="2000"  id="connector37pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.23" r="275" stroke-width="200" fill="none"/>
+            <circle cx="3000"  id="connector36pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.24" r="275" stroke-width="200" fill="none"/>
+            <circle cx="4000"  id="connector35pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.25" r="275" stroke-width="200" fill="none"/>
+            <circle cx="5000"  id="connector34pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.26" r="275" stroke-width="200" fill="none"/>
+            <circle cx="6000"  id="connector33pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.27" r="275" stroke-width="200" fill="none"/>
+            <circle cx="7000"  id="connector32pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.28" r="275" stroke-width="200" fill="none"/>
+            <circle cx="8000"  id="connector31pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.29" r="275" stroke-width="200" fill="none"/>
+            <circle cx="9000"  id="connector30pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.30" r="275" stroke-width="200" fill="none"/>
+            <circle cx="10000"  id="connector29pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.31" r="275" stroke-width="200" fill="none"/>
+            <circle cx="11000"  id="connector28pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.32" r="275" stroke-width="200" fill="none"/>
+            <circle cx="12000"  id="connector27pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.33" r="275" stroke-width="200" fill="none"/>
+            <circle cx="13000"  id="connector26pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.34" r="275" stroke-width="200" fill="none"/>
+            <circle cx="14000"  id="connector25pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.35" r="275" stroke-width="200" fill="none"/>
+            <circle cx="15000"  id="connector24pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.36" r="275" stroke-width="200" fill="none"/>
+            <circle cx="16000"  id="connector23pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.37" r="275" stroke-width="200" fill="none"/>
+            <circle cx="17000"  id="connector22pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.38" r="275" stroke-width="200" fill="none"/>
+            <circle cx="18000"  id="connector21pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.39" r="275" stroke-width="200" fill="none"/>
+            <circle cx="19000"  id="connector20pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.40" r="275" stroke-width="200" fill="none"/>
+            <circle cx="20000"  id="connector19pin" cy="500" stroke="rgb(255, 191, 0)" gorn="0.2.0.41" r="275" stroke-width="200" fill="none"/>
+        </g>
+    </g>
+</svg>
