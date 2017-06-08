@@ -8,15 +8,15 @@
     <!-- ESP32-DevKitC -->
     <rect x="50" y="50" rx="500" ry="500" width="21750" height="10950" style="fill:none;stroke:#1E2C5C;stroke-width:100;" />
     <text x="12000" y="3550" style="font-size:800px;text-anchor:start;fill:#1E2C5C;stroke:none;font-family:OCRA">ESP32-DevKitC</text>
-    <text x="4000"  y="5000" style="font-size:350px;text-anchor:start;fill:#1E2C5C;stroke:none;font-family:OCRA">ESP-WROOM-32</text>
     <!-- ESP-WROOM-32 -->
     <rect x="50" y="2050" width="9000" height="6950" style="fill:none;stroke:#1E2C5C;stroke-width:100;"/>
     <path d="M3050 2500 L250 2500 L250 3500 L3050 3500 M250 3500 L250 4500 L1300 4500 L1300 5500 L250 5500 L250 6500 L1300 6500 L1300 7500 L250 7500 L250 8500 L2300 8500" style="fill:none;stroke:#1E2C5C;stroke-width:250"/>
     <rect x="3050"  y="2050" width="6000" height="6950" style="fill:none;stroke:#1E2C5C;stroke-width:100;"/>
+    <text x="4000"  y="5000" style="font-size:350px;text-anchor:start;fill:#1E2C5C;stroke:none;font-family:OCRA">ESP-WROOM-32</text>
     <!-- Bushbutton Boot -->
     <rect    x="20000"  y="2050" width="1500" height="1000" style="fill:none;stroke:#1E2C5C;stroke-width:100;" />
     <circle cx="20750" cy="2550" r="250" style="fill:none;stroke:#1E2C5C;stroke-width:100;" />
-    <text    x="20750"  y="3500" font-size="350" font-family="OCRA" fill="#1E2C5C" text-anchor="middle" id="label" stroke="none">BOOT</text>
+    <text    x="20750"  y="3500" id="label_BOOT" style="font-size:350px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">BOOT</text>
     <!-- USB connector -->
     <rect x="20000" y="4050" width="2000" height="2950" style="fill:none;stroke:#1E2C5C;stroke-width:100;"/>
     <rect x="20000" y="4650" width="300"  height="600"  style="fill:none;stroke:#1E2C5C;stroke-width:100;"/>
@@ -26,7 +26,47 @@
     <!-- Bushbutton RST -->
     <rect    x="20000"  y="8050" width="1500" height="1000" style="fill:none;stroke:#1E2C5C;stroke-width:100;" />
     <circle cx="20750" cy="8550" r="250" style="fill:none;stroke:#1E2C5C;stroke-width:100;"/>
-    <text    x="20750"  y="7850" font-size="350" font-family="OCRA" fill="#1E2C5C" text-anchor="middle" id="label" stroke="none">RST</text>
+    <text    x="20750"  y="7850" id="label_RST" style="font-size:350px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">RST</text>
+    <!-- Pin Name pin 38-20 -->
+    <text x="2000"  y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">GND</text>
+    <text x="3000"  y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO23</text>
+    <text x="4000"  y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO22</text>
+    <text x="5000"  y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">TXD0</text>
+    <text x="6000"  y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">RXD0</text>
+    <text x="7000"  y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO21</text>
+    <text x="8000"  y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">GND</text>
+    <text x="9000"  y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO19</text>
+    <text x="10000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO18</text>
+    <text x="11000" y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO5</text>
+    <text x="12000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO17</text>
+    <text x="13000" y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO16</text>
+    <text x="14000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO4</text>
+    <text x="15000" y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO0</text>
+    <text x="16000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO2</text>
+    <text x="17000" y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO15</text>
+    <text x="18000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SD1</text>
+    <text x="19000" y="1200" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SD0</text>
+    <text x="20000" y="1400" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">CLK</text>
+<!-- Pin Name pin 1-19 -->
+    <text x="2000"  y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">3V3</text>
+    <text x="3000"  y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">EN</text>
+    <text x="4000"  y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SVP</text>
+    <text x="5000"  y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SVN</text>
+    <text x="6000"  y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO34</text>
+    <text x="7000"  y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO35</text>
+    <text x="8000"  y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO32</text>
+    <text x="9000"  y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO33</text>
+    <text x="10000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO25</text>
+    <text x="11000" y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO26</text>
+    <text x="12000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO27</text>
+    <text x="13000" y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO14</text>
+    <text x="14000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO12</text>
+    <text x="15000" y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">GND</text>
+    <text x="16000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">IO13</text>
+    <text x="17000" y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SD2</text>
+    <text x="18000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">SD3</text>
+    <text x="19000" y="9950" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">CMD</text>
+    <text x="20000" y="9750" style="font-size:300px;text-anchor:middle;fill:#1E2C5C;stroke:none;font-family:OCRA">5V</text>
   </g>
   <g id="copper1">
     <g id="copper0">
