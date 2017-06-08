@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="34.200001" width="21.6" gorn="0" version="1.1" id="Layer_1"  viewBox="0 0 21.599999 34.199999" xml:space="preserve" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <desc >
+        <referenceFile >DS18B20_breadboard.svg</referenceFile>
+    </desc>
+    <metadata id="metadata150882" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="defs150880" />
+    <g transform="translate(0,10.118)" >
+        <g >
+            <g >
+                <g >
+                    <g >
+                        <g gorn="0.3.0.0.0.0.0" id="layer6"  style="display:inline">
+                            <g gorn="0.3.0.0.0.0.0.0" id="g213067" >
+                                <path d="m 1.7999999,15.104998 5.3999999,-5.4 0,-3.599999" gorn="0.3.0.0.0.0.0.0.0" id="path212445"  style="color:#000000;fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+                                <line y2="22.281998" gorn="0.3.0.0.0.0.0.0.1" id="connector1leg" x2="1.7999998" y1="15.105"  style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" x1="1.7999998"/>
+                                <line y2="22.281998" gorn="0.3.0.0.0.0.0.0.2" id="connector2leg" x2="10.8" y1="15.105"  style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" x1="10.8"/>
+                                <line y2="22.281998" gorn="0.3.0.0.0.0.0.0.3" id="connector3leg" x2="19.799999" y1="15.105"  style="fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round" x1="19.799999"/>
+                                <rect height="9.3509998" y="5.7539968" width="2.154" gorn="0.3.0.0.0.0.0.0.4" id="rect9506"  style="fill:#8c8c8c" x="9.717"/>
+                                <rect height="10.07" y="-4.3180008" width="13.278" gorn="0.3.0.0.0.0.0.0.5" id="rect9553"  style="fill:#1a1a1a" x="4.1549997"/>
+                                <path d="m 16.428,-4.3180015 v 2.4529996 8.2279999 1.842999 c 0.633,-0.713999 1.005,-1.553999 1.005,-2.452999 l 0,0 V -4.3180015 h -1.005 z" gorn="0.3.0.0.0.0.0.0.6" id="path9555"  style="fill:#141414"/>
+                                <path d="m 5.1609994,-4.3180015 h -1.005 V 5.751998 l 0,0 c 0,0.899 0.373,1.739 1.005,2.452999 V 6.361998 -1.8650019 -4.3180015 z" gorn="0.3.0.0.0.0.0.0.7" id="path9557"  style="fill:#242424"/>
+                                <path d="m 4.1549994,-4.3180015 0,0 c 0,0.899 0.373,1.74 1.005,2.4529996 H 16.436 c 0.632,-0.7129996 1.005,-1.5539996 1.005,-2.4529996 l 0,0 H 4.1549994 z" gorn="0.3.0.0.0.0.0.0.8" id="path9559"  style="fill:#1f1f1f"/>
+                                <path d="m 10.794999,-8.9770015 c -3.6679996,0 -6.6399996,2.086 -6.6399996,4.661 H 17.433 c 0,-2.575 -2.97,-4.661 -6.638001,-4.661 z" gorn="0.3.0.0.0.0.0.0.9" id="path9561"  style="fill:#141414"/>
+                                <path d="m 19.8,15.104998 -5.4,-5.4 0,-3.599999" gorn="0.3.0.0.0.0.0.0.10" id="path212957"  style="color:#000000;fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+                                <rect height="10.07" y="-1.8650026" width="11.276" gorn="0.3.0.0.0.0.0.0.11" id="rect9563"  x="5.1609998"/>
+                                <g gorn="0.3.0.0.0.0.0.0.12" id="label0"  style="font-size:3px;fill:#e6e6e6;font-family:OCRA">
+                                    <text y="2.4170942" gorn="0.3.0.0.0.0.0.0.12.0" id="tspan150901"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:OCR A Std;-inkscape-font-specification:OCR A Std" x="10.757889">DS18</text>
+                                </g>
+                                <g gorn="0.3.0.0.0.0.0.0.13" id="label0_1_"  style="font-size:3px;fill:#e6e6e6;font-family:OCRA">
+                                    <text y="5.4636621" gorn="0.3.0.0.0.0.0.0.13.0" id="tspan150907"  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCR A Std;-inkscape-font-specification:OCR A Std" x="7.5303779">B20</text>
+                                </g>
+                                <g transform="translate(-1.3401714e-7,-10.118)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <path d="m 1.8,32.400001 0,1.8" gorn="0.3.0.0.0.0.0.0.14.0.0.0.0.0" id="connector1pin"  style="color:#000000;fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(-1.3401714e-7,-10.118)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <path d="m 10.8,32.400001 0,1.8" gorn="0.3.0.0.0.0.0.0.15.0.0.0.0.0" id="connector2pin"  style="color:#000000;fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(-1.3401714e-7,-10.118)" >
+                                    <g >
+                                        <g >
+                                            <g >
+                                                <g >
+                                                    <path d="m 19.8,32.400001 0,1.8" gorn="0.3.0.0.0.0.0.0.16.0.0.0.0.0" id="connector3pin"  style="color:#000000;fill:none;stroke:#8c8c8c;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
